@@ -11,7 +11,7 @@ The notebook `hwk3-task2-oil-spills.ipynb` has exercises for practicing geospati
 
 ## Rubric
 
-Please [review the rubric for these tasks](https://docs.google.com/document/d/1x0BoU6IH4cnOR1-n7i9CYQ9wUC37yDpYlQ4j6rCfcsU/edit?usp=sharing) before starting your work. 
+Please [review the rubric for these tasks](https://docs.google.com/document/d/1Ce4EO3MEHW5uLks4x8BECWlkim2bcmxB4f8Qo4z26z8/edit?usp=sharing) before starting your work. 
 
 ## Submission instructions
 **All tasks for this assignment should be submitted via Gradescope.** Make sure you double-check your submission to ensure it satisfies all the items in this checklist:
